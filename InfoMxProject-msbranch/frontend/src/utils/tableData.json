@@ -1,0 +1,638 @@
+{
+    "data" : [
+        {
+
+
+            "ORGNAME" : "YMCA",
+            "TSPNAME" : "Phyinmana",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "20",
+            "TOTAL2" : "20",
+            "ALLTOTAL" : "20"
+        },
+        {
+            "ORGNAME" : "THC",
+            "TSPNAME" : "Tangyan",
+            "CLNNAME" : "LoiPan",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "48",
+            "TOTAL2" : "48",
+            "ALLTOTAL" : "48"
+        },
+        {
+            "ORGNAME" : "BTSDN",
+            "TSPNAME" : "Mawlamyinegyun",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "6",
+            "AGEG5F" : "1420",
+            "TOTAL2" : "1426",
+            "ALLTOTAL" : "1426"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "HpaKhant",
+            "CLNNAME" : "Kachin(BP)(HpaKhant)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "3",
+            "AGEG5F" : "63",
+            "TOTAL2" : "66",
+            "ALLTOTAL" : "66"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "Injangyang",
+            "CLNNAME" : "Kachin(BP)(Injangyang)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "3",
+            "TOTAL2" : "3",
+            "ALLTOTAL" : "3"
+        },
+        {
+            "ORGNAME" : "CPIKCH",
+            "TSPNAME" : "Waingmaw",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "4",
+            "AGEG5F" : "300",
+            "TOTAL2" : "304",
+            "ALLTOTAL" : "304"
+        },
+        {
+            "ORGNAME" : "YMCA",
+            "TSPNAME" : "Phyinmana",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "20",
+            "TOTAL2" : "20",
+            "ALLTOTAL" : "20"
+        },
+        {
+            "ORGNAME" : "THC",
+            "TSPNAME" : "Tangyan",
+            "CLNNAME" : "LoiPan",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "48",
+            "TOTAL2" : "48",
+            "ALLTOTAL" : "48"
+        },
+        {
+            "ORGNAME" : "BTSDN",
+            "TSPNAME" : "Mawlamyinegyun",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "6",
+            "AGEG5F" : "1420",
+            "TOTAL2" : "1426",
+            "ALLTOTAL" : "1426"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "HpaKhant",
+            "CLNNAME" : "Kachin(BP)(HpaKhant)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "3",
+            "AGEG5F" : "63",
+            "TOTAL2" : "66",
+            "ALLTOTAL" : "66"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "Injangyang",
+            "CLNNAME" : "Kachin(BP)(Injangyang)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "3",
+            "TOTAL2" : "3",
+            "ALLTOTAL" : "3"
+        },
+        {
+            "ORGNAME" : "CPIKCH",
+            "TSPNAME" : "Waingmaw",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "4",
+            "AGEG5F" : "300",
+            "TOTAL2" : "304",
+            "ALLTOTAL" : "304"
+        },
+        {
+            "ORGNAME" : "YMCA",
+            "TSPNAME" : "Phyinmana",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "20",
+            "TOTAL2" : "20",
+            "ALLTOTAL" : "20"
+        },
+        {
+            "ORGNAME" : "THC",
+            "TSPNAME" : "Tangyan",
+            "CLNNAME" : "LoiPan",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "48",
+            "TOTAL2" : "48",
+            "ALLTOTAL" : "48"
+        },
+        {
+            "ORGNAME" : "BTSDN",
+            "TSPNAME" : "Mawlamyinegyun",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "6",
+            "AGEG5F" : "1420",
+            "TOTAL2" : "1426",
+            "ALLTOTAL" : "1426"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "HpaKhant",
+            "CLNNAME" : "Kachin(BP)(HpaKhant)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "3",
+            "AGEG5F" : "63",
+            "TOTAL2" : "66",
+            "ALLTOTAL" : "66"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "Injangyang",
+            "CLNNAME" : "Kachin(BP)(Injangyang)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "3",
+            "TOTAL2" : "3",
+            "ALLTOTAL" : "3"
+        },
+        {
+            "ORGNAME" : "CPIKCH",
+            "TSPNAME" : "Waingmaw",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "4",
+            "AGEG5F" : "300",
+            "TOTAL2" : "304",
+            "ALLTOTAL" : "304"
+        },
+        {
+            "ORGNAME" : "YMCA",
+            "TSPNAME" : "Phyinmana",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "20",
+            "TOTAL2" : "20",
+            "ALLTOTAL" : "20"
+        },
+        {
+            "ORGNAME" : "THC",
+            "TSPNAME" : "Tangyan",
+            "CLNNAME" : "LoiPan",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "48",
+            "TOTAL2" : "48",
+            "ALLTOTAL" : "48"
+        },
+        {
+            "ORGNAME" : "BTSDN",
+            "TSPNAME" : "Mawlamyinegyun",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "6",
+            "AGEG5F" : "1420",
+            "TOTAL2" : "1426",
+            "ALLTOTAL" : "1426"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "HpaKhant",
+            "CLNNAME" : "Kachin(BP)(HpaKhant)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "3",
+            "AGEG5F" : "63",
+            "TOTAL2" : "66",
+            "ALLTOTAL" : "66"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "Injangyang",
+            "CLNNAME" : "Kachin(BP)(Injangyang)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "3",
+            "TOTAL2" : "3",
+            "ALLTOTAL" : "3"
+        },
+        {
+            "ORGNAME" : "CPIKCH",
+            "TSPNAME" : "Waingmaw",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "4",
+            "AGEG5F" : "300",
+            "TOTAL2" : "304",
+            "ALLTOTAL" : "304"
+        },
+        {
+            "ORGNAME" : "YMCA",
+            "TSPNAME" : "Phyinmana",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "20",
+            "TOTAL2" : "20",
+            "ALLTOTAL" : "20"
+        },
+        {
+            "ORGNAME" : "THC",
+            "TSPNAME" : "Tangyan",
+            "CLNNAME" : "LoiPan",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "48",
+            "TOTAL2" : "48",
+            "ALLTOTAL" : "48"
+        },
+        {
+            "ORGNAME" : "BTSDN",
+            "TSPNAME" : "Mawlamyinegyun",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "6",
+            "AGEG5F" : "1420",
+            "TOTAL2" : "1426",
+            "ALLTOTAL" : "1426"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "HpaKhant",
+            "CLNNAME" : "Kachin(BP)(HpaKhant)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "3",
+            "AGEG5F" : "63",
+            "TOTAL2" : "66",
+            "ALLTOTAL" : "66"
+        },
+        {
+            "ORGNAME" : "KBPHWT",
+            "TSPNAME" : "Injangyang",
+            "CLNNAME" : "Kachin(BP)(Injangyang)",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "0",
+            "AGEG5F" : "3",
+            "TOTAL2" : "3",
+            "ALLTOTAL" : "3"
+        },
+        {
+            "ORGNAME" : "CPIKCH",
+            "TSPNAME" : "Waingmaw",
+            "CLNNAME" : "YaungNiThit",
+            "AGE5M" : "0",
+            "AGE5F" : "0",
+            "TOTAL1" : "0",
+            "AGEG5M" : "4",
+            "AGEG5F" : "300",
+            "TOTAL2" : "304",
+            "ALLTOTAL" : "304"
+        }
+    ],
+    "covData" : [
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        },
+        {
+            "PROJECTNAME" : "SDC",
+            "ORGNAME" : "BMA",
+            "TOTALCLINIC" : "39",
+            "TOTALVILLAGE" : "200",
+            "TOTALMPOP" : "2000",
+            "TOTALFPOP" : "23",
+            "TOTALHHOLD" : "23"
+        }
+    ]
+}

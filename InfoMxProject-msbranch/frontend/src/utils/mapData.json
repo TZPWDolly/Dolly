@@ -1,0 +1,93 @@
+[{
+    "Id": 1,
+    "clinicname": "tgi",
+    "malepop": "200",
+    "femalepop": "2000",
+    "lat": 20.7875218,
+    "long": 97.0409508,
+    "household": "99"
+    },
+    {
+      "Id": 2,
+      "clinicname": "Kwin Ka Lay",
+      "malepop": "1107",
+      "femalepop": "2106",
+      "lat": 16.11105919,
+      "long": 98.36736298,
+      "household": "459"
+    },
+    {
+      "Id": 3,
+      "clinicname": "Nyaung Shwe",
+      "malepop": "10",
+      "femalepop": "60",
+      "lat": 20.7629134,
+      "long": 96.9406883,
+      "household": "5"
+    },
+    {
+      "Id": 4,
+      "clinicname": "Meiktila Denko",
+      "malepop": "3000",
+      "femalepop": "9000",
+      "lat": 20.873941,
+      "long": 95.8437602,
+      "household": "800"
+    },
+    {
+      "Id": 5,
+      "clinicname": "Mdy Ocean",
+      "malepop": "300",
+      "femalepop": "200",
+      "lat": 21.9420297,
+      "long": 96.0725308,
+      "household": "80"
+    },
+    {
+      "Id": 6,
+      "clinicname": "Ancient City",
+      "malepop": "1400",
+      "femalepop": "200",
+      "lat": 20.669926,
+      "long": 93.1500006,
+      "household": "801"
+    },
+    {
+      "Id": 7,
+      "clinicname": "Waimaw Church",
+      "malepop": "100",
+      "femalepop": "20",
+      "lat": 25.3375046,
+      "long": 97.4205464,
+      "household": "901"
+    },
+    {
+      "Id": 8,
+      "clinicname": "Muse Hospital",
+      "malepop": "30000",
+      "femalepop": "600",
+      "lat": 23.9956943,
+      "long": 97.9114253,
+      "household": "200"
+    },
+    {
+      "Id": 9,
+      "clinicname": "New Century",
+      "malepop": "100",
+      "femalepop": "100",
+      "lat": 16.453122,
+      "long": 97.6352662,
+      "household": "30"
+    },
+    {
+      "Id": 10,
+      "clinicname": "Kalay Denko",
+      "malepop": "680",
+      "femalepop": "220",
+      "lat": 23.217863,
+      "long": 94.064956,
+      "household": "110"
+    }
+  ]
+  
+  

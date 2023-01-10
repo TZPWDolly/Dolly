@@ -1,0 +1,165 @@
+{
+    "Project": [
+        {
+            "name": "SDC",
+            "code": "P-001"
+        },
+        {
+            "name": "3MDG",
+            "code": "P-002"
+        },
+        {
+            "name": "OSF",
+            "code": "P-003"
+        },
+        {
+            "name": "WGF",
+            "code": "P-004"
+        },
+        {
+            "name": "UHF",
+            "code": "P-005"
+        },
+        {
+            "name": "YNT",
+            "code": "P-006"
+        }
+    ],
+    "State": [
+        {
+            "name": "Ayeyarwady",
+            "code": "DIV-01"
+        },
+        {
+            "name": "Kachin",
+            "code": "DIV-02"
+        },
+        {
+            "name": "Kaya",
+            "code": "DIV-03"
+        },
+        {
+            "name": "Karen",
+            "code": "DIV-04"
+        },
+        {
+            "name": "Tanintharyi",
+            "code": "DIV-05"
+        },
+        {
+            "name": "Mandalay",
+            "code": "DIV-06"
+        },
+        {
+            "name": "Sagaing",
+            "code": "DIV-07"
+        },
+        {
+            "name": "Mon",
+            "code": "DIV-08"
+        },
+        {
+            "name": "Naypyidaw",
+            "code": "DIV-09"
+        },
+        {
+            "name": "Shan",
+            "code": "DIV-10"
+        },
+        {
+            "name": "Yangon",
+            "code": "DIV-11"
+        },
+        {
+            "name": "Chin",
+            "code": "DIV-12"
+        },
+        {
+            "name": "Bago",
+            "code": "DIV-13"
+        },
+        {
+            "name": "Rakhine",
+            "code": "DIV-14"
+        },
+        {
+            "name": "Magway",
+            "code": "DIV-15"
+        },
+        {
+            "name": "Other",
+            "code": "DIV-16"
+        },
+        {
+            "name": "Thailand",
+            "code": "DIV-17"
+        }
+    ],
+    "Township": [
+        {
+            "name": "Myawaddy",
+            "code": "KRN-TSP-004"
+        },
+        {
+            "name": "Hpa-an",
+            "code": "KRN-TSP-006"
+        },
+        {
+            "name": "Htantapin",
+            "code": "BGO-TSP-002"
+        },
+        {
+            "name": "Tanai",
+            "code": "KCH-TSP-004"
+        },
+        {
+            "name": "Hlaingbwe",
+            "code": "KRN-TSP-001"
+        }
+    ],
+    "ORG": [
+        {
+            "name": "KrBC",
+            "code": "CPI-02"
+        },
+        {
+            "name": "KnBC",
+            "code": "CPI-03"
+        },
+        {
+            "name": "KMHC",
+            "code": "CPI-04"
+        },
+        {
+            "name": "KDHW",
+            "code": "CPI-05"
+        },
+        {
+            "name": "BMA",
+            "code": "CPI-06"
+        }
+    ],
+    "Clinic": [
+        {
+            "name": "Joe Phyu",
+            "code": "BMA-008"
+        },
+        {
+            "name": "Mae Ka Tee",
+            "code": "BMA-015"
+        },
+        {
+            "name": "Mae Zali",
+            "code": "BPHWT-016"
+        },
+        {
+            "name": "Htee War Kaw",
+            "code": "CHDN-014"
+        },
+        {
+            "name": "CHDN-014",
+            "code": "CHDN-014"
+        }
+    ]
+
+}

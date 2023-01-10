@@ -1,0 +1,167 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 50%;
+}
+
+.divBgColor {
+  background-color: #fcf0f2;
+}
+
+.form {
+  width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: #fdf2f3;
+}
+
+.secondForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.navBarLogin {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 22px;
+  font-weight: bolder;
+  color: #482642;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.navBarLoginTest {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 22px;
+  font-weight: bolder;
+  color: #482642;
+  margin-top: 4.5%;
+  margin-right: 20px;
+}
+
+.navBarDefaultMainPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 22px;
+  font-weight: bolder;
+  color: #482642;
+  background-color: #fcf0f2;
+  height: fit-content;
+}
+
+.menuBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: sans-serif; 
+  color: #fff;
+  background-color: #d91d4c;
+  height: 50px;
+}
+
+.chart {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.highlight
+{
+  background-color: #482642;
+}
+
+.dialog {
+  display : flex;
+  flex-direction: column;
+}
+
+.button {
+  background-color: #482642;
+}
+
+.dashboardSelection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: sans-serif; 
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.selectList {
+  display: flex;
+  flex-direction: row;
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+.duplicateClinic {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+.tableHead {
+  position: sticky;
+  top: 0;
+  background: #53344d;
+}
+
+.patientTableHead {
+  position:-webkit-sticky;
+  width: 100%;
+}
+
+.tableBottom {
+  position: sticky;
+  bottom: 0;
+  background: #53344d;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

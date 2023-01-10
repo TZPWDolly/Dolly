@@ -1,0 +1,157 @@
+{
+    "orgBarData": [
+        {
+            "orgName" : "BMA",
+            "male" : 10,
+            "female" : 20
+          },
+          {
+            "orgName" : "KDHW",
+            "male" : 50,
+            "female" : 90
+          },
+          {
+            "orgName" : "BPHW",
+            "male" : 40,
+            "female" : 1000
+          },
+          {
+            "orgName" : "KrBC",
+            "male" : 10,
+            "female" : 2000
+          },
+          {
+            "orgName" : "KnBC",
+            "male" : 50,
+            "female" : 900
+          },
+          {
+            "orgName" : "YMCA",
+            "male" : 40,
+            "female" : 100
+          },
+          {
+            "orgName" : "CPI",
+            "male" : 10,
+            "female" : 20
+          },
+          {
+            "orgName" : "ALF",
+            "male" : 50,
+            "female" : 90
+          },
+          {
+            "orgName" : "KEHOC",
+            "male" : 40,
+            "female" : 100
+          },
+          {
+            "orgName" : "THC",
+            "male" : 40,
+            "female" : 100
+          }
+    ],
+    "tspBarData": [
+        {
+            "tspName" : "Myawady",
+            "male" : 5,
+            "female" : 1000
+          },
+          {
+            "tspName" : "Hpa-an",
+            "male" : 10,
+            "female" : 50
+          },
+          {
+            "tspName" : "Tanai",
+            "male" : 20,
+            "female" : 9044
+          },
+          {
+            "tspName" : "Shwegyin",
+            "male" : 5,
+            "female" : 1000
+          },
+          {
+            "tspName" : "Kyaukkyi",
+            "male" : 10,
+            "female" : 50
+          },
+          {
+            "tspName" : "Myitkyina",
+            "male" : 20,
+            "female" : 90
+          },
+          {
+            "tspName" : "Hpapun",
+            "male" : 5,
+            "female" : 1000
+          },
+          {
+            "tspName" : "Demoso",
+            "male" : 10,
+            "female" : 5000
+          },
+          {
+            "tspName" : "Hpruso",
+            "male" : 20,
+            "female" : 90
+          },
+          {
+            "tspName" : "Mese",
+            "male" : 20,
+            "female" : 90
+          },
+          {
+            "tspName" : "Yangon",
+            "male" : 5,
+            "female" : 1000
+          },
+          {
+            "tspName" : "TaNawTharee",
+            "male" : 10,
+            "female" : 50
+          },
+          {
+            "tspName" : "KaserDoh",
+            "male" : 20,
+            "female" : 90
+          },
+          {
+            "tspName" : "Yebyu",
+            "male" : 5,
+            "female" : 1000
+          },
+          {
+            "tspName" : "Palaw",
+            "male" : 10,
+            "female" : 50
+          },
+          {
+            "tspName" : "Dawei",
+            "male" : 20,
+            "female" : 90
+          },
+          {
+            "tspName" : "Thailand",
+            "male" : 5,
+            "female" : 1000
+          },
+          {
+            "tspName" : "KyautMae",
+            "male" : 10,
+            "female" : 50
+          },
+          {
+            "tspName" : "KaingTong",
+            "male" : 20,
+            "female" : 90
+          },
+          {
+            "tspName" : "TaungGyi",
+            "male" : 20,
+            "female" : 90
+          }
+          
+    ]
+}

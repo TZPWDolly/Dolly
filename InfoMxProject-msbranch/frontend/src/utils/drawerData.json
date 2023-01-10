@@ -1,0 +1,161 @@
+{
+    "Project": [
+        {
+            "PROJECT_NAME": "AIS",
+            "PROJECT_ID": "P-001"
+        },
+        {
+            "PROJECT_NAME": "3MDG",
+            "PROJECT_ID": "P-002"
+        },
+        {
+            "PROJECT_NAME": "OSF",
+            "PROJECT_ID": "P-003"
+        },
+        {
+            "PROJECT_NAME": "WGF",
+            "PROJECT_ID": "P-004"
+        },
+        {
+            "PROJECT_NAME": "UHF",
+            "PROJECT_ID": "P-005"
+        },
+        {
+            "PROJECT_NAME": "YNT",
+            "PROJECT_ID": "P-006"
+        }
+    ],
+    "State": [
+        {
+            "DIV_NAME": "Ayeyarwady",
+            "DIV_ID": "DIV-01"
+        },
+        {
+            "DIV_NAME": "Kachin",
+            "DIV_ID": "DIV-02"
+        },
+        {
+            "DIV_NAME": "Kaya",
+            "DIV_ID": "DIV-03"
+        },
+        {
+            "DIV_NAME": "Karen",
+            "DIV_ID": "DIV-04"
+        },
+        {
+            "DIV_NAME": "Tanintharyi",
+            "DIV_ID": "DIV-05"
+        },
+        {
+            "DIV_NAME": "Mandalay",
+            "DIV_ID": "DIV-06"
+        },
+        {
+            "DIV_NAME": "Sagaing",
+            "DIV_ID": "DIV-07"
+        },
+        {
+            "DIV_NAME": "Mon",
+            "DIV_ID": "DIV-08"
+        },
+        {
+            "DIV_NAME": "Naypyidaw",
+            "DIV_ID": "DIV-09"
+        },
+        {
+            "DIV_NAME": "Shan",
+            "DIV_ID": "DIV-10"
+        },
+        {
+            "DIV_NAME": "Yangon",
+            "DIV_ID": "DIV-11"
+        },
+        {
+            "DIV_NAME": "Chin",
+            "DIV_ID": "DIV-12"
+        },
+        {
+            "DIV_NAME": "Bago",
+            "DIV_ID": "DIV-13"
+        },
+        {
+            "DIV_NAME": "Rakhine",
+            "DIV_ID": "DIV-14"
+        },
+        {
+            "DIV_NAME": "Magway",
+            "DIV_ID": "DIV-15"
+        },
+        {
+            "DIV_NAME": "Other",
+            "DIV_ID": "DIV-16"
+        },
+        {
+            "DIV_NAME": "Thailand",
+            "DIV_ID": "DIV-17"
+        }
+    ],
+    "Township": [
+        {
+            "TSP_NAME": "Myawaddy",
+            "TSP_ID": "KRN-TSP-004"
+        },
+        {
+            "TSP_NAME": "Hpa-an",
+            "TSP_ID": "KRN-TSP-006"
+        },
+        {
+            "TSP_NAME": "Htantapin",
+            "TSP_ID": "BGO-TSP-002"
+        },
+        {
+            "TSP_NAME": "Tanai",
+            "TSP_ID": "KCH-TSP-004"
+        },
+        {
+            "TSP_NAME": "Hlaingbwe",
+            "TSP_ID": "KRN-TSP-001"
+        }
+    ],
+    "ORG": [
+        {
+            "ORG_NAME": "KrBC",
+            "ORG_ID": "CPI-02"
+        },
+        {
+            "ORG_NAME": "KnBC",
+            "ORG_ID": "CPI-03"
+        },
+        {
+            "ORG_NAME": "KMHC",
+            "ORG_ID": "CPI-04"
+        },
+        {
+            "ORG_NAME": "KDHW",
+            "ORG_ID": "CPI-05"
+        },
+        {
+            "ORG_NAME": "BMA",
+            "ORG_ID": "CPI-06"
+        }
+    ],
+    "Clinic": [
+        {
+            "CLN_NAME": "Joe Phyu",
+            "CLN_ID": "BMA-008"
+        },
+        {
+            "CLN_NAME": "Mae Ka Tee",
+            "CLN_ID": "BMA-015"
+        },
+        {
+            "CLN_NAME": "Mae Zali",
+            "CLN_ID": "BPHWT-016"
+        },
+        {
+            "CLN_NAME": "Htee War Kaw",
+            "CLN_ID": "CHDN-014"
+        }
+    ]
+
+}

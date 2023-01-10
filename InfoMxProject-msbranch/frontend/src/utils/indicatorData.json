@@ -1,0 +1,274 @@
+{
+    "ANC" : [
+        {
+            "ID" : "9",
+            "RPT_NAME" : "Number of pregnant women who received first ANC visit",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "10",
+            "RPT_NAME" : "Number of pregnant women who received first ANC visit up to 14 weeks of gestation",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "11",
+            "RPT_NAME" : "Number of pregnant women who received ANC at least 4 times",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "12",
+            "RPT_NAME" : "Number of pregnant women who received ANC at least 4 times by skilled providers",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "13",
+            "RPT_NAME" : "Number of pregnant women who received ANC at least 4 times according to standard schedule",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "14",
+            "RPT_NAME" : "Number of pregnant women who received ANC at least 4 times according to standard schedule by skilled providers",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "15",
+            "RPT_NAME" : "Total number of ANC visits provided by health workers",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "16",
+            "RPT_NAME" : "Number of pregnant women who received FeSO4 supplementation at least 91 tabs from health workers during pregnancy",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "17",
+            "RPT_NAME" : "Number of pregnant women who received B1 supplementation at least 30 tabs after 36 weeks of gestation",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "18",
+            "RPT_NAME" : "Number of pregnant women who received deworming first dose by health workers",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "19",
+            "RPT_NAME" : "Number of pregnant women who received deworming second dose by health workers",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        },
+        {
+            "ID" : "20",
+            "RPT_NAME" : "Number of pregnant women who received TT immunization first dose by health workers",
+            "RPT_INDICATOR_SERVICE" : "ANC"
+
+        }
+    ],
+    "Delivery" : [
+        {
+            "ID" : "29",
+            "RPT_NAME" : "Total number of deliveries (live births+still births) during reporting period ",
+            "RPT_INDICATOR_SERVICE" : "DELI"
+
+        },
+        {
+            "ID" : "30",
+            "RPT_NAME" : "Total number of live birth during reporting period",
+            "RPT_INDICATOR_SERVICE" : "DELI"
+
+        },
+        {
+            "ID" : "31",
+            "RPT_NAME" : "Total number of home deliverieduring reporting period",
+            "RPT_INDICATOR_SERVICE" : "DELI"
+
+        },
+        {
+            "ID" : "32",
+            "RPT_NAME" : "Total number of deliveries by skilled birth attendants during reporting period",
+            "RPT_INDICATOR_SERVICE" : "DELI"
+
+        },
+        {
+            "ID" : "33",
+            "RPT_NAME" : "Total number of institutional (clinic) deliveries by skilled birth attendants during reporting period",
+            "RPT_INDICATOR_SERVICE" : "DELI"
+
+        }
+    ],
+    "PNC" : [
+        {
+            "ID" : "40",
+            "RPT_NAME" : "Number of women who received at least one PNC within 2 days after delivery",
+            "RPT_INDICATOR_SERVICE" : "PNC"
+
+        },
+        {
+            "ID" : "41",
+            "RPT_NAME" : "Number of women who received at least one PNC provided by skilled providers within 2 days after delivery",
+            "RPT_INDICATOR_SERVICE" : "PNC"
+
+        },
+        {
+            "ID" : "42",
+            "RPT_NAME" : "Total number of women received at least one PNC within 42 days after delivery",
+            "RPT_INDICATOR_SERVICE" : "PNC"
+
+        },
+        {
+            "ID" : "43",
+            "RPT_NAME" : "Total number of women received at least one PNC within 42 days after delivery provided by skilled providers",
+            "RPT_INDICATOR_SERVICE" : "PNC"
+
+        },
+        {
+            "ID" : "44",
+            "RPT_NAME" : "Total number of PNC services provided by health workers within 42 days after delivery ",
+            "RPT_INDICATOR_SERVICE" : "PNC"
+
+        }
+    ],
+    "FP" : [
+        {
+            "ID" : "51",
+            "RPT_NAME" : "Total Number of family planning client visits",
+            "RPT_INDICATOR_SERVICE" : "FP"
+
+        },
+        {
+            "ID" : "52",
+            "RPT_NAME" : "Total Number of family planning client visit for short- term method",
+            "RPT_INDICATOR_SERVICE" : "FP"
+
+        },
+        {
+            "ID" : "53",
+            "RPT_NAME" : "Total Number of family planning client visit for long- term method",
+            "RPT_INDICATOR_SERVICE" : "FP"
+
+        },
+        {
+            "ID" : "54",
+            "RPT_NAME" : "Total number of family planning client visit for depo injection",
+            "RPT_INDICATOR_SERVICE" : "FP"
+
+        },
+        {
+            "ID" : "55",
+            "RPT_NAME" : "Total number of family planning client visit for Combined Oral Contraceptive Pills",
+            "RPT_INDICATOR_SERVICE" : "FP"
+
+        }
+    ],
+    "RH" : [
+        {
+            "ID" : "64",
+            "RPT_NAME" : "Number of Post Abortion Care services delivered during reporting period",
+            "RPT_INDICATOR_SERVICE" : "RH"
+
+        },
+        {
+            "ID" : "65",
+            "RPT_NAME" : "Number of GBV Related services delivered during reporting period",
+            "RPT_INDICATOR_SERVICE" : "RH"
+
+        },
+        {
+            "ID" : "66",
+            "RPT_NAME" : "Number of Other RH cases during reporting period",
+            "RPT_INDICATOR_SERVICE" : "RH"
+
+        },
+        {
+            "ID" : "67",
+            "RPT_NAME" : "Number of HIV Testing and Counseling forRH cases during reporting period",
+            "RPT_INDICATOR_SERVICE" : "RH"
+
+        },
+        {
+            "ID" : "68",
+            "RPT_NAME" : "Number of Referral Cases to higher facilities",
+            "RPT_INDICATOR_SERVICE" : "RH"
+
+        },
+        {
+            "ID" : "69",
+            "RPT_NAME" : "Number of Referral Cases to Government health facilities",
+            "RPT_INDICATOR_SERVICE" : "RH"
+
+        }
+    ],
+    "GM" : [
+        {
+            "ID" : "87",
+            "RPT_NAME" : "Total number of Measles case ",
+            "RPT_INDICATOR_SERVICE" : "GM"
+
+        },
+        {
+            "ID" : "88",
+            "RPT_NAME" : "Total number of Watery Diarrhoea cases ",
+            "RPT_INDICATOR_SERVICE" : "GM"
+
+        },
+        {
+            "ID" : "89",
+            "RPT_NAME" : "Total number of Diarrhoea treated with ORS cases ",
+            "RPT_INDICATOR_SERVICE" : "GM"
+
+        },
+        {
+            "ID" : "90",
+            "RPT_NAME" : "Total number of Diarrhoea treated with ORS+Zinc cases ",
+            "RPT_INDICATOR_SERVICE" : "GM"
+
+        },
+        {
+            "ID" : "91",
+            "RPT_NAME" : "Total number of Dysentery ",
+            "RPT_INDICATOR_SERVICE" : "GM"
+
+        }
+    ],
+    "HeadCount" : [
+        {
+            "ID" : "1",
+            "RPT_NAME" : "Number of paitents who registered in this reporting periods",
+            "RPT_INDICATOR_SERVICE" : "HC"
+
+        },
+        {
+            "ID" : "2",
+            "RPT_NAME" : "Number of patients who received health care services in this reporting periods",
+            "RPT_INDICATOR_SERVICE" : "HC"
+
+        },
+        {
+            "ID" : "3",
+            "RPT_NAME" : "Number of Pregnant Women who received ANC services in this reporting periods",
+            "RPT_INDICATOR_SERVICE" : "HC"
+
+        },
+        {
+            "ID" : "4",
+            "RPT_NAME" : "Number of Delivery (still birth + live birth) in this reporting periods",
+            "RPT_INDICATOR_SERVICE" : "HC"
+
+        },
+        {
+            "ID" : "5",
+            "RPT_NAME" : "Number of Women who received PNC services after delivery in this reporting periods",
+            "RPT_INDICATOR_SERVICE" : "HC"
+
+        }
+    ]
+}
